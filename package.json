@@ -1,0 +1,28 @@
+{
+  "name": "lambdify",
+  "version": "0.0.0",
+  "description": "From Zero to Lambda",
+  "main": "index.js",
+  "author": "Christopher M. Baker",
+  "license": "MIT",
+  "homepage": "https://github.com/bakerface/lambdify",
+  "keywords": [
+    "Amazon",
+    "AWS",
+    "API",
+    "API Gateway",
+    "Lambda",
+    "express",
+    "deploy",
+    "resource",
+    "method",
+    "integration"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bakerface/lambdify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bakerface/lambdify/issues"
+  }
+}
